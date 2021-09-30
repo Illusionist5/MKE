@@ -1,0 +1,2 @@
+D:\project\repos\Kursovay\Debug\Kursovay.exe
+D:\project\repos\Kursovay\Debug\Kursovay.pdb

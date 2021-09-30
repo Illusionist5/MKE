@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\project\repos\Kursovay\Function.h(36,9): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+D:\project\repos\Kursovay\Function.h(44,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\project\repos\Kursovay\Function.h(37,21): warning C4101: y2: неиспользованная локальная переменная
+D:\project\repos\Kursovay\Function.h(37,13): warning C4101: y1: неиспользованная локальная переменная
+D:\project\repos\Kursovay\Function.h(37,9): warning C4101: x1: неиспользованная локальная переменная
+D:\project\repos\Kursovay\Function.h(34,13): warning C4101: v2: неиспользованная локальная переменная
+D:\project\repos\Kursovay\Function.h(37,17): warning C4101: x2: неиспользованная локальная переменная
+D:\project\repos\Kursovay\Function.h(125,9): warning C4101: norm_eps: неиспользованная локальная переменная
+D:\project\repos\Kursovay\Time.h(71,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Kursovay.vcxproj -> D:\project\repos\Kursovay\Debug\Kursovay.exe
